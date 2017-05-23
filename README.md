@@ -8,7 +8,7 @@ CRUD Users
 
 2. [Adding an SFTP User](https://github.com/e-baker/linux-commands-and-snippets/blob/master/linux/add-sftp-user.md) _TODO: Needs to be finished_
 
-3. [Show All Local Users](https://github.com/e-baker/linux-commands-and-snippets/blob/master/linux/show-all-local-usres.md)
+3. [Show All Local Users](https://github.com/e-baker/linux-commands-and-snippets/blob/master/linux/show-all-local-users.md)
 
 Server Configuration
 ======
