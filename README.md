@@ -10,7 +10,12 @@ CRUD Users
 
 3. [Show All Local Users](https://github.com/e-baker/linux-commands-and-snippets/blob/master/linux/show-all-local-users.md)
 
-Server Configuration
+Hardening Your Server
+------
+
+1. [IPTables Rules](https://github.com/e-baker/linux-commands-and-snippets/blob/master/linux/iptables-rules.md)
+
+HTTP Server Configuration
 ======
 
 Nginx
