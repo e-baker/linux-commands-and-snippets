@@ -1,4 +1,4 @@
-Common Linux Commands & Snippets
+Linux Commands
 ======
 
 CRUD Users
