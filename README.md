@@ -52,3 +52,8 @@ This comand just shows the list of user names for local users. If you want to se
 ```bash
 cat /etc/passwd
 ```
+
+Nginx Snippets
+------
+
+1. [Browser Caching](https://github.com/e-baker/linux-commands-and-snippets/blob/master/nginx/browser-caching)
