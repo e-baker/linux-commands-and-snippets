@@ -14,10 +14,10 @@ adduser {username} --disabled-password
 ```
 
 2. You'll need to change into that user's account so files have the correct ownership.
-
 ```bash
 su - {username}
 ```
+
 3. Create a `.ssh` directory and change permissions to 700 (only the owner can read/write):
 ```bash
 mkdir .ssh
